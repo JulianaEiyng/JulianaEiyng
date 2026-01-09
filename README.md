@@ -1,14 +1,14 @@
 # Olá, eu sou a Juliana Eiyng! 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas (UNESC)**. Focada na construção de aplicações e desenvolvimento de software profissional, com ênfase em soluções de Back-end, Dados e IA.
+Estudante de **Análise e Desenvolvimento de Sistemas (UNESC)**. Meu objetivo é atuar como **Desenvolvedora de Software**, com foco principal em tecnologias **Back-end** e construção de sistemas robustos.
 
 ---
 
 ### 🚀 Foco em Programação
 
-* **Desenvolvimento de Sistemas:** Domínio de Lógica de Programação e Algoritmos para criar soluções funcionais.
+* **Desenvolvimento de Sistemas:** Domínio de Lógica de Programação e Algoritmos para criar soluções funcionais e eficientes.
 * **Ecossistema Back-end:** Experiência prática com **Python (POO)** e **Node.js** para construção de scripts e lógica de servidor.
-* **Base Técnica e Evolução:** Focada em dominar os fundamentos para garantir uma rápida adaptação a novas tecnologias, estudando atualmente **JavaScript** e **SQL**.
+* **Base Técnica e Evolução:** Focada em dominar os fundamentos para garantir uma rápida adaptação a novas linguagens, estudando atualmente **JavaScript** e **SQL**.
 
 ### 🛠 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -16,8 +16,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas (UNESC)**. Focada na const
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚖️ Diferenciais
-Minha transição de carreira traz um **raciocínio estruturado** para lidar com regras de negócio complexas. Sou movida por desafios e estou em busca da minha primeira oportunidade como **Estagiária ou Desenvolvedora Júnior**.
+### 💻 Objetivo Profissional
+Busco minha primeira oportunidade como **Estagiária ou Desenvolvedora Júnior**, onde eu possa aplicar meu raciocínio estruturado na resolução de problemas técnicos e no desenvolvimento de novas funcionalidades.
 
 ---
 
