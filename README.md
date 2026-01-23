@@ -1,5 +1,7 @@
 # Olá, eu sou a Juliana Eiyng 👋
-
+> [!TIP]
+> ### 🌐 [Acesse aqui meu Portfólio Interativo](https://julianaeiyng.github.io/meu-portfolio-de-estudos/)
+> Conheça meus projetos e evolução acadêmica com uma interface dinâmica.
 Sou estudante de **Análise e Desenvolvimento de Sistemas (UNESC)**, em formação para atuar como **desenvolvedora de software**, com foco em **programação Back-end** e construção de soluções eficientes e bem estruturadas.
 
 ---
