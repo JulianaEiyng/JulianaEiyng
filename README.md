@@ -1,5 +1,3 @@
-## 🚀 Sobre minha formação e estudos
-
 # Olá, eu sou a Juliana Eiyng 👋
 > [!TIP]
 > ### 🌐 [Acesse aqui meu Portfólio Interativo](https://julianaeiyng.github.io/meu-portfolio-de-estudos/)
