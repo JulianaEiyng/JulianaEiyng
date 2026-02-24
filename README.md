@@ -9,12 +9,6 @@ Estudante de Análise e Desenvolvimento de Sistemas (UNESC) focada em transforma
 
 ---
 
-## 🌐 Portfólio Interativo
-[Acesse meu Portfólio aqui](https://SEU_LINK_AQUI)
-Conheça meus projetos e evolução acadêmica através de uma interface dinâmica.
-
----
-
 ## 🚀 Destaque: CRM Imobiliário Completo
 Desenvolvi uma solução real de gestão imobiliária utilizando **Django (Python)**. O projeto foi focado em unir segurança, banco de dados e produtividade em uma única plataforma.
 
