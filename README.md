@@ -14,9 +14,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (UNESC) focada em transforma
 
 ## 💻 Objetivo Profissional
 
-Busco minha primeira oportunidade como **Estagiária em Desenvolvimento de Software**. Meu foco é aplicar meus fundamentos em Python e Node.js em um ambiente profissional, contribuindo com a equipe enquanto evoluo tecnicamente com boas práticas e código limpo.
-
-
+Busco minha primeira oportunidade como **Estagiária ou Júnior na área de Tecnologia da Informação**. Meu objetivo é aplicar meus fundamentos de programação e lógica em um ambiente profissional, contribuindo com a equipe e desenvolvendo soluções reais enquanto amplio meu conhecimento em novas tecnologias.
 
 ## 📫 Contato
 
