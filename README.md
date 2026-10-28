@@ -256,7 +256,7 @@ publicar o dashboard no Streamlit Cloud com integração ao GitHub.
 
 </div>
 
-## `08 // CONTATO`
+## `07 // CONTATO`
 
 <div align="center">
 
