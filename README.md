@@ -2,8 +2,7 @@
 
 <div align="center">
 
-<img src="assets/apresentacao.gif" width="100%" alt="Systems Analysis and Development Student. Interested in Software Engineering and Artificial Intelligence." />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3400&pause=1100&color=D4A843&background=00000000&center=true&vCenter=true&width=1100&lines=Systems+Analysis+and+Development+Student;Interested+in+Software+Engineering+and+Artificial+Intelligence" width="100%" alt="Apresentação de Juliana Eiyng" />
 </div>
 
 ## `01 // IDENTIDADE`
