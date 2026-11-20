@@ -15,7 +15,7 @@ juliana = {
     "ia": ["RAG", "LLMs", "Machine Learning", "Evals"],
     "interesses": ["Engenharia de IA", "Engenharia de Software"],
     "projetos": ["CRM Villa Terra", "My Language Study Notebook", "Analisador de Sentimentos"],
-    "objetivo": "Estágio em Engenharia de IA",
+    "objetivo": "Estágio ou vaga júnior em Engenharia de Software com foco em IA",
     "principio": "Aprender. Construir. Testar. Evoluir."
 }
 ```
@@ -101,7 +101,7 @@ PERFIL     : Estudante de ADS | Desenvolvedora freelancer
 TECNOLOGIAS: Python | Django | FastAPI | React | PostgreSQL
 PROJETOS   : CRM Villa Terra | My Language Study Notebook
 INTERESSES : Engenharia de IA | Engenharia de Software
-OBJETIVO   : Estágio em Engenharia de IA
+OBJETIVO   : Estágio ou júnior em Eng. de Software com foco em IA
 
 > aprendendo e construindo... █
 ```
@@ -339,6 +339,6 @@ histogramas, mapas de calor e proporção de modelos de trabalho.
 
 <br/><br/>
 
-<code>CONTATO &gt; ABERTA A ESTÁGIO EM ENGENHARIA DE IA ✓</code>
+<code>CONTATO &gt; ABERTA A ESTÁGIO OU VAGA JÚNIOR EM ENGENHARIA DE SOFTWARE COM FOCO EM IA ✓</code>
 
 </div>
