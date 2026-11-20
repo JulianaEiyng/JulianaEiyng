@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3400&pause=1100&color=D4A843&background=00000000&center=true&vCenter=true&width=1100&lines=Systems+Analysis+and+Development+Student;Interested+in+Software+Engineering+and+Artificial+Intelligence" width="100%" alt="Apresentação de Juliana Eiyng" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3400&pause=1100&color=D4A843&background=00000000&center=true&vCenter=true&width=1100&lines=Systems+Analysis+and+Development+Student;Focused+on+AI+Engineering:+RAG,+LLMs+and+Machine+Learning" width="100%" alt="Apresentação de Juliana Eiyng" />
 </div>
 
 ## `01 // IDENTIDADE`
@@ -11,10 +11,11 @@
 juliana = {
     "nome": "Juliana Eiyng",
     "formacao": "Estudante de ADS",
-    "tecnologias": ["Python", "JavaScript", "Django", "PostgreSQL"],
-    "interesses": ["Engenharia de Software", "Inteligência Artificial"],
-    "projetos": ["CRM Villa Terra", "Portfólio Kelvin Eiyng"],
-    "objetivo": "Estágio em Engenharia de Software",
+    "tecnologias": ["Python", "JavaScript", "Django", "FastAPI", "React", "PostgreSQL"],
+    "ia": ["RAG", "LLMs", "Machine Learning", "Evals"],
+    "interesses": ["Engenharia de IA", "Engenharia de Software"],
+    "projetos": ["CRM Villa Terra", "My Language Study Notebook", "Analisador de Sentimentos"],
+    "objetivo": "Estágio em Engenharia de IA",
     "principio": "Aprender. Construir. Testar. Evoluir."
 }
 ```
@@ -36,6 +37,8 @@ juliana = {
 <br/>
 
 <img src="https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=D4A843" alt="Django" />
+<img src="https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=fastapi&logoColor=D4A843" alt="FastAPI" />
+<img src="https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react&logoColor=D4A843" alt="React" />
 <img src="https://img.shields.io/badge/Streamlit-090909?style=for-the-badge&logo=streamlit&logoColor=D4A843" alt="Streamlit" />
 
 <br/><br/><br/>
@@ -52,6 +55,15 @@ juliana = {
 
 <img src="https://img.shields.io/badge/PyTorch-090909?style=for-the-badge&logo=pytorch&logoColor=D4A843" alt="PyTorch" />
 <img src="https://img.shields.io/badge/scikit--learn-090909?style=for-the-badge&logo=scikitlearn&logoColor=D4A843" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Pydantic-090909?style=for-the-badge&logo=pydantic&logoColor=D4A843" alt="Pydantic" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/LLMs-090909?style=for-the-badge" alt="LLMs" />
+<img src="https://img.shields.io/badge/RAG-090909?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/Evals-090909?style=for-the-badge" alt="Evals" />
+<img src="https://img.shields.io/badge/OpenAI%20API-090909?style=for-the-badge" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/Azure%20Speech-090909?style=for-the-badge" alt="Azure Speech" />
 
 <br/><br/><br/>
 
@@ -81,15 +93,15 @@ juliana = {
 > iniciando apresentação...
 
 [ OK ] Estudante de Análise e Desenvolvimento de Sistemas
-[ OK ] Trabalhos freelancer de desenvolvimento web
-[ OK ] CRM em produção
-[ OK ] Projetos de estudo em IA e dados
+[ OK ] CRM em produção, com assistente de IA para o administrador
+[ OK ] Projetos de IA aplicada: RAG, LLMs e Machine Learning
+[ OK ] Evals para medir a qualidade dos recursos de IA
 
 PERFIL     : Estudante de ADS | Desenvolvedora freelancer
-TECNOLOGIAS: Python | JavaScript | Django | PostgreSQL
-PROJETOS   : CRM Villa Terra | Portfólio Kelvin Eiyng
-INTERESSES : Engenharia de Software | Inteligência Artificial
-OBJETIVO   : Oportunidade de estágio
+TECNOLOGIAS: Python | Django | FastAPI | React | PostgreSQL
+PROJETOS   : CRM Villa Terra | My Language Study Notebook
+INTERESSES : Engenharia de IA | Engenharia de Software
+OBJETIVO   : Estágio em Engenharia de IA
 
 > aprendendo e construindo... █
 ```
@@ -105,9 +117,10 @@ OBJETIVO   : Oportunidade de estágio
 <h3>CRM Villa Terra Imobiliária</h3>
 
 <p>
-Sistema interno sob medida para até 30 corretores, com painéis para
-corretores e administrador, gestão de imóveis, clientes e negociações,
-funil Kanban e integração bidirecional com o site WordPress.
+Sistema interno sob medida, em produção e usado diariamente por 21 corretores
+e pelo administrador, com isolamento de dados entre carteiras, gestão de imóveis,
+clientes e negociações, funil Kanban, notificações push, integração bidirecional
+com o site WordPress e um assistente de IA com busca por voz, exclusivo para o administrador.
 </p>
 
 <img src="https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=D4A843" alt="Python" />
@@ -118,6 +131,7 @@ funil Kanban e integração bidirecional com o site WordPress.
 <br/>
 
 <img src="https://img.shields.io/badge/Chart.js-090909?style=for-the-badge&logo=chartdotjs&logoColor=D4A843" alt="Chart.js" />
+<img src="https://img.shields.io/badge/OpenAI%20API-090909?style=for-the-badge" alt="OpenAI API" />
 <img src="https://img.shields.io/badge/Cloudinary-090909?style=for-the-badge&logo=cloudinary&logoColor=D4A843" alt="Cloudinary" />
 <img src="https://img.shields.io/badge/Render-090909?style=for-the-badge&logo=render&logoColor=D4A843" alt="Render" />
 
@@ -130,6 +144,54 @@ funil Kanban e integração bidirecional com o site WordPress.
 <br/><br/>
 
 ---
+
+<img src="https://img.shields.io/badge/IA%20APLICADA%20%C2%B7%20PROJETO%20PESSOAL-D4A843?style=for-the-badge" alt="IA aplicada · Projeto pessoal" />
+
+<br/><br/>
+
+<h3>My Language Study Notebook</h3>
+
+<p>
+Caderno de estudos de idiomas com IA: tutor com RAG que responde só com o que
+foi estudado, citando a aula, flashcards gerados por LLM com saída validada por
+Pydantic, avaliação de pronúncia e um modelo de esquecimento treinado com
+949 mil sessões de revisão do Duolingo. Cada recurso de IA tem evals com métricas.
+</p>
+
+<img src="https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react&logoColor=D4A843" alt="React" />
+<img src="https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=fastapi&logoColor=D4A843" alt="FastAPI" />
+<img src="https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=D4A843" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Pydantic-090909?style=for-the-badge&logo=pydantic&logoColor=D4A843" alt="Pydantic" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/RAG-090909?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/LLMs-090909?style=for-the-badge" alt="LLMs" />
+<img src="https://img.shields.io/badge/Machine%20Learning-090909?style=for-the-badge" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Azure%20Speech-090909?style=for-the-badge" alt="Azure Speech" />
+
+<p>Na demonstração, a IA fica desligada para não gastar cota gratuita. O primeiro acesso pode levar até 2 minutos.</p>
+
+<a href="https://github.com/JulianaEiyng/my-language-study-notebook">
+<img src="https://img.shields.io/badge/ABRIR%20REPOSIT%C3%93RIO-D4A843?style=for-the-badge" alt="Abrir repositório" />
+</a>
+<a href="https://mlsn-demo-web.onrender.com">
+<img src="https://img.shields.io/badge/TESTAR%20DEMONSTRA%C3%87%C3%83O-D4A843?style=for-the-badge" alt="Testar demonstração" />
+</a>
+
+<br/><br/>
+
+<code>JULIANA EIYNG // EM PRODUÇÃO · IA APLICADA ✓</code>
+
+</div>
+
+## `05 // OUTROS_PROJETOS`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OUTROS%20TRABALHOS%20E%20ESTUDOS-D4A843?style=for-the-badge" alt="Outros trabalhos e estudos" />
+
+<br/><br/>
 
 <h3>Portfólio profissional — Kelvin Eiyng</h3>
 
@@ -154,24 +216,15 @@ Instagram e Facebook, com adaptação para desktop, tablet e celular.
 
 <br/><br/>
 
-<code>JULIANA EIYNG // PROJETOS DESENVOLVIDOS SOB MEDIDA ✓</code>
-
-</div>
-
-## `05 // OUTROS_PROJETOS`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OUTROS%20TRABALHOS%20E%20ESTUDOS-D4A843?style=for-the-badge" alt="Outros trabalhos e estudos" />
-
-<br/><br/>
+---
 
 <h3>Analisador de Feedbacks — Projeto de estudo</h3>
 
 <p>
 Projeto pessoal que integra um Transformer pré-treinado para classificar
 feedbacks de delivery em português. Inclui treinamento separado de um
-classificador com TF-IDF e regressão logística e comparação de resultados.
+classificador com TF-IDF e regressão logística, que alcançou 73,5% de acurácia
+e 73,27% de macro-F1 em 1.200 textos de teste, e comparação de resultados.
 </p>
 
 <img src="https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=D4A843" alt="Python" />
@@ -285,6 +338,6 @@ publicar o dashboard no Streamlit Cloud com integração ao GitHub.
 
 <br/><br/>
 
-<code>CONTATO &gt; ABERTA A OPORTUNIDADES DE ESTÁGIO ✓</code>
+<code>CONTATO &gt; ABERTA A ESTÁGIO EM ENGENHARIA DE IA ✓</code>
 
 </div>
