@@ -277,16 +277,17 @@ e envio de propostas personalizadas pelo WhatsApp.
 <h3>Dashboard de Salários — Estudo guiado</h3>
 
 <p>
-Projeto de estudo da Imersão Dados da Alura, montado com código
-e base de dados fornecidos pelos instrutores. O foco da etapa foi
-publicar o dashboard no Streamlit Cloud com integração ao GitHub.
+Dashboard interativo de salários da área de dados, com filtros por ano,
+senioridade, tipo de contrato e tamanho da empresa, métricas de salário
+médio, salário máximo e cargo mais frequente, e gráficos de barras,
+histogramas, mapas de calor e proporção de modelos de trabalho.
 </p>
 
 <img src="https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=D4A843" alt="Python" />
 <img src="https://img.shields.io/badge/Streamlit-090909?style=for-the-badge&logo=streamlit&logoColor=D4A843" alt="Streamlit" />
 <img src="https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=D4A843" alt="GitHub" />
 
-<p>Filtros interativos, indicadores salariais e gráficos dinâmicos.</p>
+<p>Estudo guiado da Imersão Dados da Alura, com código e base de dados fornecidos pelos instrutores. Meu foco foi o deploy no Streamlit Cloud com integração ao GitHub.</p>
 
 <a href="https://dashboard-salarios-dados.streamlit.app/">
 <img src="https://img.shields.io/badge/ACESSAR%20DASHBOARD-D4A843?style=for-the-badge" alt="Acessar dashboard" />
