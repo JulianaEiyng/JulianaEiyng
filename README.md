@@ -170,13 +170,47 @@ Pydantic, avaliação de pronúncia e um modelo de esquecimento treinado com
 <img src="https://img.shields.io/badge/Machine%20Learning-090909?style=for-the-badge" alt="Machine Learning" />
 <img src="https://img.shields.io/badge/Azure%20Speech-090909?style=for-the-badge" alt="Azure Speech" />
 
-<p>Na demonstração, a IA fica desligada para não gastar cota gratuita. O primeiro acesso pode levar até 2 minutos.</p>
+<p>Código-fonte privado. Na demonstração, a IA fica desligada para não gastar cota gratuita. O primeiro acesso pode levar até 2 minutos.</p>
 
-<a href="https://github.com/JulianaEiyng/my-language-study-notebook">
-<img src="https://img.shields.io/badge/ABRIR%20REPOSIT%C3%93RIO-D4A843?style=for-the-badge" alt="Abrir repositório" />
-</a>
 <a href="https://mlsn-demo-web.onrender.com">
 <img src="https://img.shields.io/badge/TESTAR%20DEMONSTRA%C3%87%C3%83O-D4A843?style=for-the-badge" alt="Testar demonstração" />
+</a>
+
+<br/><br/>
+
+---
+
+<img src="https://img.shields.io/badge/IA%20APLICADA%20%C2%B7%20NO%20MEU%20PORTF%C3%93LIO-D4A843?style=for-the-badge" alt="IA aplicada · No meu portfólio" />
+
+<br/><br/>
+
+<h3>Pergunte sobre a Juliana</h3>
+
+<p>
+Assistente com RAG no meu portfólio, que responde sobre meus projetos,
+habilidades e experiência em português ou inglês, citando as fontes, e recusa
+perguntas fora do tema. Base de conhecimento com embeddings do Gemini, respostas
+de LLM pelo Groq validadas com Pydantic, backend em FastAPI no Render e evals
+que medem fonte certa, recusa correta e idioma da resposta.
+</p>
+
+<img src="https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=D4A843" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=fastapi&logoColor=D4A843" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Pydantic-090909?style=for-the-badge&logo=pydantic&logoColor=D4A843" alt="Pydantic" />
+<img src="https://img.shields.io/badge/Render-090909?style=for-the-badge&logo=render&logoColor=D4A843" alt="Render" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/RAG-090909?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/LLMs-090909?style=for-the-badge" alt="LLMs" />
+<img src="https://img.shields.io/badge/Gemini%20Embeddings-090909?style=for-the-badge" alt="Gemini Embeddings" />
+<img src="https://img.shields.io/badge/Groq-090909?style=for-the-badge" alt="Groq" />
+<img src="https://img.shields.io/badge/Evals-090909?style=for-the-badge" alt="Evals" />
+
+<p>Na primeira pergunta, o servidor gratuito pode levar até 1 minuto para acordar.</p>
+
+<a href="https://julianaeiyng.github.io/portfolio/">
+<img src="https://img.shields.io/badge/TESTAR%20NO%20PORTF%C3%93LIO-D4A843?style=for-the-badge" alt="Testar no portfólio" />
 </a>
 
 <br/><br/>
